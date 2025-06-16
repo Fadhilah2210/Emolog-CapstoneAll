@@ -176,26 +176,6 @@ checkpoint-1315/
 
 ---
 
-## 🧪 Contoh Request API ML
-
-```http
-POST http://localhost:8000/predict
-Content-Type: application/json
-
-{
-  "text": "Hari ini aku merasa sangat kesepian."
-}
-```
-
-Response:
-```json
-{
-  "label": "sedih",
-  "score": 0.943
-}
-```
-
----
 
 ## 🔐 Environment Variable (Opsional)
 
@@ -227,4 +207,4 @@ Pull request dan feedback sangat terbuka! Silakan fork dan buat perubahan jika i
 
 ## ✨ Penutup
 
-Emolog menggabungkan teknologi modern untuk mendukung kesehatan mental dengan pendekatan yang humanis dan berbasis data. Selamat mencoba!
+Emolog menggabungkan teknologi modern untuk mendukung kesehatan mental. Selamat mencoba!
